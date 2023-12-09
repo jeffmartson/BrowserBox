@@ -18,7 +18,7 @@
     "exit-on-epipe": "latest",
     "express": "latest",
     "express-rate-limit": "latest",
-    "helmet": "latest",
+    "helmet": "7.1.0",
     "puppeteer": "latest"
   },
   "devDependencies": {
