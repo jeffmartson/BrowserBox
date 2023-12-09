@@ -19,7 +19,7 @@
     "express": "latest",
     "express-rate-limit": "latest",
     "helmet": "latest",
-    "puppeteer": "latest"
+    "puppeteer": "20.9.0"
   },
   "devDependencies": {
     "nodemon": "latest"
