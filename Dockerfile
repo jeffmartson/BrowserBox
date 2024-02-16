@@ -2,7 +2,7 @@
 # base image
 
 # current base
-FROM ubuntu:jammy
+FROM ubuntu:22.04
 
 SHELL ["/bin/bash", "-c"]
 
