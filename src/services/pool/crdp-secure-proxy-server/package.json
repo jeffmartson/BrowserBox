@@ -15,7 +15,7 @@
     "compression": "^1.7.4",
     "cookie-parser": "latest",
     "exit-on-epipe": "^1.0.1",
-    "express": "latest",
+    "express": "4.19.2",
     "ws": "^7.5.4"
   }
 }
