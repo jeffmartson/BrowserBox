@@ -42,7 +42,7 @@
     "express": "latest",
     "express-rate-limit": "latest",
     "helmet": "latest",
-    "ws": "latest"
+    "ws": "8.17.1"
   },
   "devDependencies": {
     "@types/express": "latest",
