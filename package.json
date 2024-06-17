@@ -94,7 +94,7 @@
     "multer": "latest",
     "simple-peer": "latest",
     "spdy": "latest",
-    "ws": "latest"
+    "ws": "8.17.1"
   },
   "devDependencies": {
     "@babel/core": "latest",
