@@ -24,7 +24,7 @@
   "dependencies": {
     "compression": "latest",
     "csurf": "^1.11.0",
-    "express": "latest",
+    "express": "4.21.0",
     "express-rate-limit": "^7.0.1",
     "express-session": "^1.17.3",
     "hasha": "latest",
