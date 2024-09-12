@@ -39,7 +39,7 @@
     "cookie-parser": "latest",
     "csurf": "latest",
     "exit-on-epipe": "latest",
-    "express": "latest",
+    "express": "4.21.0",
     "express-rate-limit": "latest",
     "helmet": "latest",
     "ws": "latest"
