@@ -11,9 +11,9 @@
   },
   "author": "@dosy",
   "dependencies": {
-    "body-parser": "^1.20.1",
+    "body-parser": "^1.20.3",
     "cookie-parser": "^1.4.6",
-    "express": "^4.18.2",
+    "express": "^4.21.0",
     "express-basic-auth": "^1.2.1",
     "express-rate-limit": "^6.7.0"
   },
