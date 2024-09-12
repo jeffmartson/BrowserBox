@@ -25,10 +25,10 @@
   },
   "homepage": "https://github.com/crisdosyago/socket-puppet-service#readme",
   "dependencies": {
-    "body-parser": "latest",
+    "body-parser": "1.20.3",
     "cookie-parser": "latest",
     "cors": "latest",
-    "express": "latest",
+    "express": "4.21.0",
     "express-basic-auth": "latest",
     "helmet": "latest"
   }
