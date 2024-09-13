@@ -88,7 +88,7 @@
     "esbuild": "0.19.7",
     "esm": "latest",
     "exit-on-epipe": "latest",
-    "express": "latest",
+    "express": "4.21.0",
     "express-rate-limit": "latest",
     "helmet": "latest",
     "multer": "latest",
