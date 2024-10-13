@@ -26,9 +26,9 @@
   "homepage": "https://github.com/crisdosyago/socket-puppet-service#readme",
   "dependencies": {
     "body-parser": "latest",
-    "cookie-parser": "latest",
+    "cookie-parser": "1.4.7",
     "cors": "latest",
-    "express": "latest",
+    "express": "4.21.1",
     "express-basic-auth": "latest",
     "helmet": "latest"
   }
