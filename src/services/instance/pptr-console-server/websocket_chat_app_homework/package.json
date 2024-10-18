@@ -36,10 +36,10 @@
   "homepage": "https://github.com/cris691/bulgogi#readme",
   "dependencies": {
     "compression": "latest",
-    "cookie-parser": "latest",
+    "cookie-parser": "1.4.7",
     "csurf": "latest",
     "exit-on-epipe": "latest",
-    "express": "latest",
+    "express": "4.21.1",
     "express-rate-limit": "latest",
     "helmet": "latest",
     "ws": "latest"
