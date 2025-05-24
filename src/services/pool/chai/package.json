@@ -28,7 +28,7 @@
     "express-rate-limit": "^7.0.1",
     "express-session": "^1.17.3",
     "hasha": "latest",
-    "multer": "latest",
+    "multer": "2.0.0",
     "pm2": "latest",
     "serve-index": "latest"
   },
