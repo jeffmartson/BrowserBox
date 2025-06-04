@@ -91,7 +91,7 @@
     "express": "latest",
     "express-rate-limit": "latest",
     "helmet": "latest",
-    "multer": "latest",
+    "multer": "2.0.1",
     "simple-peer": "latest",
     "spdy": "latest",
     "ws": "latest"
