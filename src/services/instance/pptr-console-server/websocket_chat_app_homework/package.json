@@ -35,7 +35,7 @@
   },
   "homepage": "https://github.com/cris691/bulgogi#readme",
   "dependencies": {
-    "compression": "latest",
+    "compression": "1.8.1",
     "cookie-parser": "latest",
     "csurf": "latest",
     "exit-on-epipe": "latest",
