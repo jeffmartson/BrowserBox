@@ -12,7 +12,7 @@
   "author": "@dosy",
   "license": "AGPL-3.0",
   "dependencies": {
-    "compression": "^1.7.4",
+    "compression": "^1.8.1",
     "cookie-parser": "latest",
     "exit-on-epipe": "^1.0.1",
     "express": "latest",
