@@ -80,7 +80,7 @@
     "@roamhq/wrtc": "^0.7.1",
     "bang.html": "latest",
     "body-parser": "latest",
-    "compression": "latest",
+    "compression": "1.8.1",
     "cookie-parser": "latest",
     "cors": "latest",
     "csurf": "latest",
@@ -91,7 +91,7 @@
     "express": "latest",
     "express-rate-limit": "latest",
     "helmet": "latest",
-    "multer": "latest",
+    "multer": "2.0.2",
     "simple-peer": "latest",
     "spdy": "latest",
     "ws": "latest"
